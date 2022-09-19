@@ -1,2 +1,2 @@
-# Basic-Billing-Machine
-Basic Billing Machine Using Java
+# Basic Billing Machine System
+- Basic Billing Machine System Using Java
